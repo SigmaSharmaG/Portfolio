@@ -56,5 +56,4 @@ Clean code, strong visuals, and consistent styling.
 
 ---
 
-## 📁 Project Structure
 
